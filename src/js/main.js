@@ -1,6 +1,2 @@
-let x = 10;
-
-let y = 15;
-
-let z = x + y;
-console.log(z);
+let a = 5;
+let b = 010;
